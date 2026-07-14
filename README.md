@@ -244,6 +244,7 @@ This project strengthened my practical skills in:
 **Nmesoma Ekeh**
 
 Data Analyst with an interest in data analytics, business intelligence, and data visualization.
+
 Email Address: ekehnmesoma@gmail.com
 
 **Tools:** Excel • PostgreSQL • SQL • Power BI
