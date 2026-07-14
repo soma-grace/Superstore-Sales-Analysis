@@ -2,9 +2,9 @@
 
 ##  Project Overview
 
-This project is an end-to-end data analytics solution that analyzes retail sales data from the Superstore dataset using Microsoft Excel, PostgreSQL, SQL, and Microsoft Power BI.
+This project is an end to end data analytics solution that analyzes retail sales data from the Superstore dataset using Microsoft Excel, PostgreSQL, SQL, and Microsoft Power BI.
 
-The objective was to clean and prepare raw sales data, perform exploratory data analysis (EDA), develop an interactive dashboard, and generate business insights to support data-driven decision-making.
+The objective was to clean and prepare raw sales data, perform exploratory data analysis (EDA), develop an interactive dashboard, and generate business insights to support data driven decision making.
 
 ---
 
